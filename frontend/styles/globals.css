@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #f7faf8;
+  color: #12201b;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
