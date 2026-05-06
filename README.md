@@ -1,4 +1,4 @@
-# College Discovery Platform
+> **Note:** The backend is hosted on Render free tier, so the first API request may take a few seconds to wake up.
 
 A production-ready full-stack MVP for searching, comparing, and predicting Indian engineering colleges.
 
